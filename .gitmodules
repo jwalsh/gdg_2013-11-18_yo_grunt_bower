@@ -1,0 +1,9 @@
+[submodule "angular-seed"]
+	path = angular-seed
+	url = git@github.com:angular/angular-seed.git
+[submodule "chrome-app-samples"]
+	path = chrome-app-samples
+	url = git@github.com:GoogleChrome/chrome-app-samples.git
+[submodule "angular.js"]
+	path = angular.js
+	url = git@github.com:angular/angular.js.git
